@@ -1,0 +1,5 @@
+### Отправить сообщение можно запросом
+GET http://localhost:8080/hello?name=World
+Accept: application/json
+
+###
